@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning more about LiDAR SLAM and Image Segmentation
 
 
-| | <a href="https://github.com/quokka1024"><img align="center" src="https://github-readme-stats-quokka1024s-projects.vercel.app/api/top-langs/?username=quokka1024&theme=transparent" /></a> |
-| ------------- | ------------- |
+| <a href="https://github.com/quokka1024"><img align="center" src="https://github-readme-stats-quokka1024s-projects.vercel.app/api/top-langs/?username=quokka1024&theme=transparent" /></a> |
+| ------------- |
 <!--
 **quokka1024/quokka1024** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
