@@ -1,7 +1,10 @@
 ## Hi there 👋, I'm Quokka1024, a self-taught developer
 - 🔭 I’m currently working on my websites and robotics
 - 🌱 I’m currently learning more about LiDAR SLAM and Image Segmentation
-![My's GitHub stats](https://github-readme-stats-quokka1024s-projects.vercel.app/api?username=quokka1024&show_icons=true&theme=transparent)
+
+
+| <a href="https://github.com/quokka1024"><img align="center" src="https://github-readme-stats-quokka1024s-projects.vercel.app//api?username=quokka1024&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/quokka1024"><img align="center" src="https://github-readme-stats-quokka1024s-projects.vercel.app/p/api/top-langs/?username=quokka1024&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
 <!--
 **quokka1024/quokka1024** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
