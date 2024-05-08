@@ -1,5 +1,5 @@
 ## Hi there 👋, I'm Quokka1024, a self-taught developer
-- 🔭 I’m currently working on my websites and robotics
+- 🔭 I’m currently working on my websites and making robots
 - 🌱 I’m currently learning more about LiDAR SLAM and Image Segmentation
 
 
