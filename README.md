@@ -1,6 +1,7 @@
-## Hi there 👋, I'm Quokka1024, a self-taught developer
+## Hi there 👋, I'm Cryoorionis, a self-taught developer
 - 🔭 I’m currently working on my websites and making robots
-- 🌱 I’m currently learning more about LiDAR SLAM and Image Segmentation
+- 🌱 I’m currently learning more about Image Segmentation
+- 🥲 My GitHub stats are rather inaccurate as I do not put all my projects on GitHub
 
 
 | <a href="https://github.com/quokka1024/" target="_blank"><img align="center" src="https://github-readme-stats-quokka1024s-projects.vercel.app/api/top-langs/?username=quokka1024&theme=transparent&langs_count=20" /></a> |
