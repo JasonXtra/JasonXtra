@@ -1,5 +1,5 @@
 ## Hi there 👋, I'm a self-taught developer
-- 🔭 I’m currently working on my websites and making robots
+- 🔭 I’m a web and app developer who occasionally deals with hardware related projects
 - 🌱 I’m currently learning more about Image Segmentation
 - 🥲 My GitHub stats are not the most accurate as I do not put most of my projects on GitHub
 
