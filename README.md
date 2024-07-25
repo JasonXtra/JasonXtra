@@ -1,13 +1,11 @@
 ## Hi there 👋, I'm a self-taught developer
 - 🔭 I’m a web and app developer who occasionally deals with hardware related projects
-- 🌱 I’m currently learning more about Image Segmentation
-- 🥲 My GitHub stats are not the most accurate as I do not put most of my projects on GitHub
 
 
 | <a href="https://github.com/JasonXtra/" target="_blank"><img align="center" src="https://github-readme-stats-quokka1024s-projects.vercel.app/api/top-langs/?username=JasonXtra&theme=transparent&langs_count=20" /></a> |
 | ------------- |
 <!--
-**quokka1024/quokka1024** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**skibiditoilet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
