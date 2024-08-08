@@ -1,9 +1,4 @@
-## Hi there 👋, I'm a self-taught developer
-- 🔭 I’m a web and app developer who occasionally deals with hardware related projects
-
-
-| <a href="https://github.com/JasonXtra/" target="_blank"><img align="center" src="https://github-readme-stats-quokka1024s-projects.vercel.app/api?username=JasonXtra&theme=transparent" /></a> |
-| <a href="https://github.com/JasonXtra/" target="_blank"><img align="center" src="https://github-readme-stats-quokka1024s-projects.vercel.app/api/top-langs/?username=JasonXtra&theme=transparent&langs_count=20" /></a> |
+[![Readme Card](https://github-readme-stats-quokka1024s.vercel.app/api/pin/?username=JasonXtra&repo=github-readme-stats)](https://github.com/JasonXtra)
 | ------------- |
 <!--
 **skibiditoilet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
