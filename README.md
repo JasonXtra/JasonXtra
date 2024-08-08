@@ -1,4 +1,4 @@
-[![Readme Card](https://github-readme-stats-quokka1024s.vercel.app/api/pin/?username=JasonXtra)](https://github.com/JasonXtra)
+[![Readme Card](https://github-readme-stats-quokka1024s-projects.vercel.app/api/pin/?username=JasonXtra)](https://github.com/JasonXtra)
 | ------------- |
 <!--
 **skibiditoilet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
