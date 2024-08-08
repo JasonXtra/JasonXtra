@@ -2,7 +2,7 @@
 - 🔭 I’m a web and app developer who occasionally deals with hardware related projects
 
 
-| <a href="https://github.com/JasonXtra/" target="_blank"><img align="center" src="https://github-readme-stats-quokka1024s-projects.vercel.app/?username=JasonXtra&theme=transparent" /></a> |
+| <a href="https://github.com/JasonXtra/" target="_blank"><img align="center" src="https://github-readme-stats-quokka1024s-projects.vercel.app/api?username=JasonXtra&theme=transparent" /></a> |
 | <a href="https://github.com/JasonXtra/" target="_blank"><img align="center" src="https://github-readme-stats-quokka1024s-projects.vercel.app/api/top-langs/?username=JasonXtra&theme=transparent&langs_count=20" /></a> |
 | ------------- |
 <!--
